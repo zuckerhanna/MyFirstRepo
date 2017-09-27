@@ -1,0 +1,9 @@
+D:\!Schule\4CK\SWE\Git\MyFirstRepo\bin\Debug\MyFirstRepo.exe.config
+D:\!Schule\4CK\SWE\Git\MyFirstRepo\bin\Debug\MyFirstRepo.exe
+D:\!Schule\4CK\SWE\Git\MyFirstRepo\bin\Debug\MyFirstRepo.pdb
+D:\!Schule\4CK\SWE\Git\MyFirstRepo\obj\Debug\MyFirstRepo.csprojResolveAssemblyReference.cache
+D:\!Schule\4CK\SWE\Git\MyFirstRepo\obj\Debug\MyFirstRepo.Form1.resources
+D:\!Schule\4CK\SWE\Git\MyFirstRepo\obj\Debug\MyFirstRepo.Properties.Resources.resources
+D:\!Schule\4CK\SWE\Git\MyFirstRepo\obj\Debug\MyFirstRepo.csproj.GenerateResource.Cache
+D:\!Schule\4CK\SWE\Git\MyFirstRepo\obj\Debug\MyFirstRepo.exe
+D:\!Schule\4CK\SWE\Git\MyFirstRepo\obj\Debug\MyFirstRepo.pdb
